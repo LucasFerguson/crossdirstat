@@ -25,8 +25,8 @@
   "email": "Jelmerro@users.noreply.github.com",
   "license": "MIT",
   "devDependencies": {
-    "electron": "18.1.0",
-    "electron-builder": "23.0.3",
+    "electron": "^18.3.15",
+    "electron-builder": "^24.9.1",
     "eslint": "8.14.0"
   },
   "dependencies": {
